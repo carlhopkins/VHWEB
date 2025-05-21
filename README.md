@@ -1,7 +1,6 @@
 # volatilehorizon.co.uk
 
-Smolweb/Oldnet inspired web site.
-Aims to be "Retro-Friendly".
+Testing...UC
 
 Carl Hopkins (C) 2024 
 
